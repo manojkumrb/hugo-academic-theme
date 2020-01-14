@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral Student
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
 - name: WMG, University of Warwick
-  url: ""
+  url: "https://go.warwick.ac.uk/dlm"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include applied machine learning and stochastic modelling of Manufacturing Assembly Process.
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Industrial Engineering
+  - course: PhD in Engineering
     institution: University of Warwick
-    year: 2019 (Awaiting viva examination)
+    year: 2020 
   - course: MTech Industrial Engineering and Management
     institution: Indian Institute of Technology-Kharagpur
     year: 2014
@@ -56,9 +56,9 @@ social:
   link: https://github.com/manojkumrb
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
- #- icon: cv
-  # icon_pack: ai
-   #link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "manojkumrb@gmail.com"
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-  I am a research assistant in the [Digital Life-cycle Management Group](https://go.warwick.ac.uk/DLM) at WMG, University of the Warwick. I have submitted my doctoral dissertation and am awaiting my viva. My doctoral research focused on utilising the spatial and spatio-temporal correlations in a manufacturing assembly process to improve the quality of the product during the early design phase. 
+  I am a research assistant in the [Digital Life-cycle Management Group](https://go.warwick.ac.uk/DLM) at WMG, University of the Warwick. My doctoral research focused on utilising the spatial and spatio-temporal correlations in a manufacturing assembly process to improve the quality of the product during the early design phase. 
