@@ -18,7 +18,7 @@ organizations:
   url: "https://go.warwick.ac.uk/dlm"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied machine learning and stochastic modelling of Manufacturing Assembly Process.
+bio: I hold a PhD in Engineering with research interests in digital manufacturing, applied machine learning and stochastic modelling of Manufacturing Assembly Process.
 
 interests:
 - Applied Machine Learning
@@ -27,14 +27,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Engineering
-    institution: University of Warwick
+  - course: Ph.D. in Engineering
+    institution: University of Warwick, UK.
     year: 2020 
-  - course: MTech Industrial Engineering and Management
-    institution: Indian Institute of Technology-Kharagpur
+  - course: M.Tech. Industrial Engineering and Management
+    institution: Indian Institute of Technology - Kharagpur.
     year: 2014
-  - course: BEng in Aeronautical Engineering
-    institution: Aeronautical Society of India
+  - course: B.Eng. in Aeronautical Engineering
+    institution: Aeronautical Society of India.
     year: 2010
 
 # Social/Academic Networking
@@ -45,15 +45,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:manojkumrb@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/manojkumrb
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/manojkumrb
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_fNmCCYAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/manojkumrb
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/manojkumarbabu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
