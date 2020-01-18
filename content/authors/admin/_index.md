@@ -68,9 +68,11 @@ email: "manojkumrb@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-  I am a research assistant in the [Digital Life-cycle Management Group](https://go.warwick.ac.uk/DLM) at WMG, University of the Warwick. My doctoral research focused on utilising the spatial and spatio-temporal correlations in a manufacturing assembly process to improve the quality of the product during the early design phase. 
+  I am a research assistant in the [Digital Life-cycle Management Group](https://go.warwick.ac.uk/DLM) at WMG, University of the Warwick. I obtained my Ph.D. in Engineering from the Unversity of Warwick under the supervison of Prof. Darek Ceglarek and Prof. Pasquale Franciosa, and my masters degree in Industrial Engineering and Management from IIT-Kharagpur under the supervisoin of Prof. M. K. Tiwari.
+  
+  My doctoral research focused on developing methodologies that enable the creation of a robust and adaptive assembly system that can mitigate the effects of input parts' geometric and dimensional variations on products. Specifically focussing on (1) accurate modelling and simulation of part shape erros, and (2) effective in-line implemetation of 3D-optical scanners, in a smart manufacturing environment with the aim of achieving near zero defects. 
