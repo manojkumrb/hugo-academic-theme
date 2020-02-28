@@ -17,20 +17,38 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+  
 [[experience]]
   title = "Research Assistant"
   company = "WMG, University of Warwick"
   company_url = ""
   location = "Coventry, UK"
-  date_start = "2018-02-01"
+  date_start = "2018-01-08"
+  date_end = "2020-02-12"
+  description = """
+  Responsibilities include:
+  
+  * Developing the Spatio-temporal Adaptive Sampling (STAS) methodology of 3D-free form surface scanners.
+  * Developing the demonstrator for the STAS methodology. 
+  
+  """
+[[experience]]
+  title = "Senior Teaching Fellow"
+  company = "WMG, University of Warwick"
+  company_url = ""
+  location = "Coventry, UK"
+  date_start = "2020-02-13"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Developing a demonstrator for Spatio-temporal Adaptive Sampling of 3D-free form surfaces
-
+  * Leading the Development and delivery of the following WMG-Undergraduate modules:
+	1. Data Science and Machine Learning 
+	2. Vision and Image Processing 
   """
-
+  
 [[experience]]
   title = "Junior Research Fellow"
   company = "Aeronautical Development Agency (ADA), DRDO"

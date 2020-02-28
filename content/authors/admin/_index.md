@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Senior Teaching Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -71,7 +71,8 @@ email: "manojkumrb@gmail.com"
 #- Researchers
 #- Visitors
 ---
-
-  I am a research assistant in the [Digital Life-cycle Management Group](https://go.warwick.ac.uk/DLM) at WMG, University of the Warwick. I obtained my Ph.D. in Engineering from the Unversity of Warwick under the supervison of [Prof. Darek Ceglarek](https://warwick.ac.uk/fac/sci/wmg/people/profile/?wmgid=462) and [Prof. Pasquale Franciosa](https://warwick.ac.uk/fac/sci/wmg/research/materials/dlm/people/p_franciosa), and my Masters in Industrial Engineering and Management from IIT-Kharagpur under the supervison of [Prof. M. K. Tiwari](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bYmXW&depts_name=DN).
+  I am a Senior Teaching Fellow at [WMG, University of the Warwick](https://warwick.ac.uk/fac/sci/wmg/), leading the development of Data Science and Machine Learning, and, Vision and Image Processing modules in the WMG undergraduate program. Prior to this I was a research assistant in the [Digital Life-cycle Management Group](https://go.warwick.ac.uk/DLM) at WMG. 
+  
+  I obtained my Ph.D. in Engineering from the Unversity of Warwick under the supervison of [Prof. Darek Ceglarek](https://warwick.ac.uk/fac/sci/wmg/people/profile/?wmgid=462) and [Prof. Pasquale Franciosa](https://warwick.ac.uk/fac/sci/wmg/research/materials/dlm/people/p_franciosa), and my Masters in Industrial Engineering and Management from IIT-Kharagpur under the supervison of [Prof. M. K. Tiwari](http://www1.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bYmXW&depts_name=DN). 
   
   My doctoral research focused on developing methodologies that enable the creation of a robust and adaptive assembly system that can mitigate the effects of input parts' geometric and dimensional variations on products. Specifically focussing on (1) accurate modelling and simulation of part shape errors, and (2) effective in-line implemetation of 3D-optical scanners, in a smart manufacturing environment with the aim of achieving near zero defects. 
